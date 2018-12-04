@@ -20,3 +20,7 @@ JIRA
 ==> Nhiệm vụ:
 - Đưa ra được lý do vì sao chuyển đổi sang jira
 - Xây dựng quy trình khép kín 	
+
+/
+Test update and than commit
+why I dont see the changing on github
